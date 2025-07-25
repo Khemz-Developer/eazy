@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Easy Banking Application running in production"
+  message: "Welcome to Easy Banking Application running in production api"
   contactDetails:
     name: "Jalitha Prod"
     email: "{cipher}343f81eb25b44eee26e09290d676fcd9ec462aa97f28a2e24cde196b02be666a9054ecbd4593fbda615065dbad6ad0b1"
