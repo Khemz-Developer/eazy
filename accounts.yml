@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Easy Banking Application running in development"
+  message: "Welcome to Easy Banking Application running in development mode"
   contactDetails:
     name: "Jalitha Developer"
     email: "6B0Hw@example.com"
